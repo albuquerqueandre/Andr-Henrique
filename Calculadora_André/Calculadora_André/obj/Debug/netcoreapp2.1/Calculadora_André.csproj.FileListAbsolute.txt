@@ -1,0 +1,11 @@
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\obj\Debug\netcoreapp2.1\Calculadora_André.csprojAssemblyReference.cache
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\obj\Debug\netcoreapp2.1\Calculadora_André.csproj.CoreCompileInputs.cache
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\obj\Debug\netcoreapp2.1\Calculadora_André.AssemblyInfoInputs.cache
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\obj\Debug\netcoreapp2.1\Calculadora_André.AssemblyInfo.cs
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\bin\Debug\netcoreapp2.1\Calculadora_André.deps.json
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\bin\Debug\netcoreapp2.1\Calculadora_André.runtimeconfig.json
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\bin\Debug\netcoreapp2.1\Calculadora_André.runtimeconfig.dev.json
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\bin\Debug\netcoreapp2.1\Calculadora_André.dll
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\bin\Debug\netcoreapp2.1\Calculadora_André.pdb
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\obj\Debug\netcoreapp2.1\Calculadora_André.dll
+C:\Users\18207002\Documents\Calculadora_André\Calculadora_André\obj\Debug\netcoreapp2.1\Calculadora_André.pdb
