@@ -8,3 +8,6 @@ O que é Branch Git?
 Um branch no Git é simplesmente um leve ponteiro móvel para um desses commits.
 O nome do branch padrão no Git é master.
 
+O que é Merge no Git?
+
+Junção de todas as alterações feitas no repositório.
