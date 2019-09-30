@@ -1,0 +1,10 @@
+O que e Push e Pull no Git?
+
+Colaborar com outros envolve gerenciar esses repositórios remotos e fazer o Push (Empurrar) e Pull (Puxar)
+de dados neles quando você precisa compartilhar trabalho.
+
+O que é Branch Git?
+
+Um branch no Git é simplesmente um leve ponteiro móvel para um desses commits.
+O nome do branch padrão no Git é master.
+
